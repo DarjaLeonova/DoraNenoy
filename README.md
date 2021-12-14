@@ -1,7 +1,7 @@
 - Hi, I’m @DoraNenoy 👋
 
 - I’m on my way to becomimg a good programmer. 😄
-- I’m currently learning web development technologies like: HTML, CSS and JavaScript. 
+- I’m currently learning web development technologies like: HTML, CSS, JavaScript, AJAX and React.js. 
   This is just the beginning and so far I have a little knowledge and expierence, but I try very hard to change it all. 💪
 
 - Of course this isn't the only interest in my life. I really love everything that is related to creativity, such as drawing. 
